@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Plataforma
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - ground
+  - Chao
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1706604075
+    locked: 0
+  - name: CavernaFundo
+    uniqueID: 2271000315
+    locked: 0
+  - name: Foreground
+    uniqueID: 3669046553
+    locked: 0
+  - name: Foreground2
+    uniqueID: 2353188403
+    locked: 0
+  - name: Props
+    uniqueID: 3939686329
+    locked: 0
+  - name: Character
+    uniqueID: 2343959719
+    locked: 0
+  - name: Parede
+    uniqueID: 2970520635
+    locked: 0
+  - name: Plataforma
+    uniqueID: 992192753
+    locked: 0
+  - name: matoFundo
+    uniqueID: 2494343287
+    locked: 0
